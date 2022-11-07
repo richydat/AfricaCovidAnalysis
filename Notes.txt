@@ -1,0 +1,16 @@
+
+
+*NOTES*
+
+Information regarding demographics of the African Continents emanates from:
+
+	https://www.nationsonline.org/oneworld/africa.htm
+	https://upload.wikimedia.org/wikipedia/commons/f/f1/Africa_map_regions.svg
+	https://www.legit.ng/1161455-list-north-african-countries-capitals.html
+	https://www.google.com/maps/place/North+Africa/@-26.8611741,29.1710575,5.25z/data=!4m5!3m4!1s0x118209d86a076539:0x2191ab7a0a4ed8d0!8m2!3d26.0197776!4d32.277834
+
+
+**Pointers**
+
+The country Saint Helena was considered as an African Country 
+It was depicted as ^Others^ under position_demography
